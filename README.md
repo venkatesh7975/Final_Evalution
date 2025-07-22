@@ -8,9 +8,20 @@ AssignMent Submission Link:
 https://docs.google.com/spreadsheets/d/1y3r3tBHxI03YFnRKn8o466GItJUHp_WxKIZW5rmgrZk/edit?gid=0#gid=0
 
 
-
-reference for design
-
+sample concepts for viva
+fullstack 
+how to create fullstack application
+how full stack application works
+how to send request from client
+how to handle those request on the server side?
+how to send data request ?
+how to receive data from the clint on server side?
+how to connect both frontend backend?
+common errors,how to create server ,how to connect db,
+how to create schemas,
+packages
+api,middleware ,crud operation,cors,express,json()
+	 state ,prop,useState ,useEffect, 
 
 Frontend degign:
 
